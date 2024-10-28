@@ -1,0 +1,53 @@
+.article {
+    margin-bottom: 20px;
+    margin-right:auto;
+    margin-left: auto;
+    color:black;
+    font-size: larger;
+
+  }
+  
+  .full-content {
+    display: relative;
+    border-radius: 10px ;
+    border-color: aliceblue;
+    border-style: solid;
+  }
+  
+  .read-more, .read-less {
+    cursor: pointer;
+    position: relative;
+    color: black;
+    text-decoration-color: black;
+    margin-right :10px;
+    margin-left: 10px;
+    background-color: blue;
+  }
+  .title{
+    font-display: 100px;
+    text-decoration: solid;
+  }
+  h1{
+    color:blue;
+    text-decoration: solid;
+  }
+  strong{
+    color: red;
+    background-color: black;
+    text-align: center;
+    
+    
+  }
+  p{
+    margin-left: 100px;
+  ;
+  }
+  .aboutschool{
+    color:black;
+    background-color: rgb(188, 188, 248);
+    border-radius: 10px;
+    border-style:groove;
+    border-color: black;
+    
+  
+  }
